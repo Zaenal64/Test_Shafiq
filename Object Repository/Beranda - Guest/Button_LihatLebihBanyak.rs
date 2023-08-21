@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_LihatLebihBanyak</name>
+   <tag></tag>
+   <elementGuidId>6b9e76fd-7b81-42fd-ad03-5c26a8a975c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-portfolio-showcase']/div[4]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.text-center > a.btn.btn-outline-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1a024a8f-15c2-4946-b4c5-23ed562d49aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-outline-primary</value>
+      <webElementGuid>4a6a7fcd-e946-408f-a723-f1a46a4bd8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.shafiq.id/daftar-investasi</value>
+      <webElementGuid>005ee078-ff32-4c61-9a02-090e95f276f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Lebih Banyak</value>
+      <webElementGuid>8dc0ae87-caac-4c70-a220-f555beac7860</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-portfolio-showcase&quot;)/div[@class=&quot;container mt-8&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col text-center&quot;]/a[@class=&quot;btn btn-outline-primary&quot;]</value>
+      <webElementGuid>16a2f1c9-d789-47cd-99c1-e3e8ba0c8ef4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-portfolio-showcase']/div[4]/div/div/a</value>
+      <webElementGuid>490d5b79-24d2-49e4-8dd7-97f08720f316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Lebih Banyak')]</value>
+      <webElementGuid>02830e9f-dc59-4990-9e3b-13e16eab02dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ROI (Proyeksi)'])[8]/following::a[1]</value>
+      <webElementGuid>2e4a235b-5af6-48cc-972e-b02823e08855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenor'])[8]/following::a[1]</value>
+      <webElementGuid>76b4a400-038b-4451-9c5e-0a442dc81bca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengapa Berinvestasi di SHAFIQ'])[1]/preceding::a[1]</value>
+      <webElementGuid>87dc7cf7-5eb9-441c-9f03-c6061015ea65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anti-GHAIB'])[1]/preceding::a[1]</value>
+      <webElementGuid>0aef1e31-18d8-473c-b97b-acf850c5d06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Lebih Banyak']/parent::*</value>
+      <webElementGuid>0dc98b95-62c9-477b-8970-3c037a47b759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.shafiq.id/daftar-investasi')])[18]</value>
+      <webElementGuid>a44eba3c-81bf-4510-afea-fb907b1871fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/a</value>
+      <webElementGuid>7f660153-a9d3-488e-bbcd-c60112c58115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.shafiq.id/daftar-investasi' and (text() = 'Lihat Lebih Banyak' or . = 'Lihat Lebih Banyak')]</value>
+      <webElementGuid>6eb2ea31-cfc8-4756-954a-3bc89f6d1778</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

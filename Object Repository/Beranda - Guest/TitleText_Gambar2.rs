@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TitleText_Gambar2</name>
+   <tag></tag>
+   <elementGuidId>cd471f68-913d-4ae1-b2fb-10634decb263</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-portfolio-slider']/div/div[2]/div/div/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>60466e1c-f3dc-40c5-8b0c-3d79afec3c1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.shafiq.id/daftar-investasi/119/detail</value>
+      <webElementGuid>4c74ca48-b38c-4bfd-993d-b07d14db36b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(ENKR-SMY02) Perluasan Villa Delima Residence dengan Pembangunan 55 Unit Rumah Baru</value>
+      <webElementGuid>eb64afdb-7763-4997-9c6c-af4eafd71396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-portfolio-slider&quot;)/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide portfolio-wrapper swiper-slide-next&quot;]/div[@class=&quot;portfolio-wrapper&quot;]/div[@class=&quot;overflow-hidden rounded-md card-shadow&quot;]/div[@class=&quot;p-4&quot;]/div[@class=&quot;mb-5&quot;]/div[@class=&quot;block text-sm font-medium text-primary md:text-h4&quot;]/a[1]</value>
+      <webElementGuid>ea60ab59-8ea6-4cc7-80e6-35a2c369a302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-portfolio-slider']/div/div[2]/div/div/div/div/div[2]/a</value>
+      <webElementGuid>57ccadf5-e727-4f5d-8806-17db93ecd86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'(ENKR-SMY02) Perluasan Villa Delima Residence dengan Pembangunan 55 Unit Rumah Baru')]</value>
+      <webElementGuid>c13ed0a1-07fa-4384-b585-ada46f61a287</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUSYARAKAH'])[1]/following::a[1]</value>
+      <webElementGuid>79816f9d-b69b-4f49-8e68-b1f53d5f17a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUKUK'])[2]/following::a[1]</value>
+      <webElementGuid>eb4792d5-13d8-47a0-b7c2-329f761c96cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PT EKA NUSA KREASINDO'])[1]/preceding::a[1]</value>
+      <webElementGuid>2af99c0e-8848-44cd-a23e-dfec95d18025</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dana Terkumpul'])[2]/preceding::a[1]</value>
+      <webElementGuid>89f4415f-45c4-4c8c-ba81-4b6eb9baa1b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(ENKR-SMY02) Perluasan Villa Delima Residence dengan Pembangunan 55 Unit Rumah Baru']/parent::*</value>
+      <webElementGuid>537a46bf-b1f8-4b00-b1f1-39adfee74009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.shafiq.id/daftar-investasi/119/detail')])[2]</value>
+      <webElementGuid>a0bdcb72-5bc2-41bd-a801-ce77aecfd718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/a</value>
+      <webElementGuid>e545022b-a759-468d-b3a2-49cf795a4792</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.shafiq.id/daftar-investasi/119/detail' and (text() = '(ENKR-SMY02) Perluasan Villa Delima Residence dengan Pembangunan 55 Unit Rumah Baru' or . = '(ENKR-SMY02) Perluasan Villa Delima Residence dengan Pembangunan 55 Unit Rumah Baru')]</value>
+      <webElementGuid>ce2eed2f-2230-4eac-bc66-cc6b6bc3955b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

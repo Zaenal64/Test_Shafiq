@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ErrorMessage_HarusMinimal8Karakter</name>
+   <tag></tag>
+   <elementGuidId>c8395ff7-cbb6-47f5-8781-6a824e40dfeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='parsley-id-9']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.mt-2.parsley-pattern</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0c377180-20f9-47f7-b680-e4ceb8eec39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger mt-2 parsley-pattern</value>
+      <webElementGuid>f9f6f196-e935-48eb-b610-2d6d4706785a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harus minimal 8 karakter dan mengandung 1 huruf kecil [a-z], 1 huruf besar [A-Z], and 1 angka [0-9].</value>
+      <webElementGuid>515cf812-4c9a-422e-bae9-760fed352997</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;parsley-id-9&quot;)/div[@class=&quot;alert alert-danger mt-2 parsley-pattern&quot;]</value>
+      <webElementGuid>71e9c8a4-596f-4ff3-9551-dc59883d151f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='parsley-id-9']/div</value>
+      <webElementGuid>3531d5f9-a4f3-4551-853f-cc20d94e4f7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::div[5]</value>
+      <webElementGuid>1a7bbca8-182c-4c08-9d85-011e96ef1f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tidak boleh kosong'])[2]/following::div[6]</value>
+      <webElementGuid>5ab0ce4f-af4a-48ff-9e83-9847e12cf3ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Konfirmasi Kata Sandi'])[1]/preceding::div[1]</value>
+      <webElementGuid>4741fb5f-0824-4806-9b5c-88e6d506043d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='password tidak sama'])[1]/preceding::div[3]</value>
+      <webElementGuid>9fa5c3c6-e865-4275-a097-7f2ac6041516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harus minimal 8 karakter dan mengandung 1 huruf kecil [a-z], 1 huruf besar [A-Z], and 1 angka [0-9].']/parent::*</value>
+      <webElementGuid>69d25cd9-00ce-4ce3-9238-18ba607bdce1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>9a589cba-dfb7-4659-bf80-fd4d4f09681f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Harus minimal 8 karakter dan mengandung 1 huruf kecil [a-z], 1 huruf besar [A-Z], and 1 angka [0-9].' or . = 'Harus minimal 8 karakter dan mengandung 1 huruf kecil [a-z], 1 huruf besar [A-Z], and 1 angka [0-9].')]</value>
+      <webElementGuid>cd736684-64c1-48d6-b2a8-1b2a58defcd6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Content_Gambar_1</name>
+   <tag></tag>
+   <elementGuidId>1f388231-ad5b-4576-894f-9c7adf403e11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.swiper-slide-active > img.relative.z-0.object-cover.object-center.w-full.h-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='campaign-gallery']/div/div[5]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9c3605b0-12cd-4643-ac1f-4fa3bd81fe2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative z-0 object-cover object-center w-full h-full</value>
+      <webElementGuid>bf262227-9c08-4b66-b55b-8d553147729f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.shafiq.id/public/businesses/159/covers/139-mtrx-01-05-thumb.jpg</value>
+      <webElementGuid>4f4f3545-9e0e-47b0-bc70-4216e622d88f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-portfolio-slider&quot;)/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide portfolio-wrapper swiper-slide-active&quot;]/div[@class=&quot;portfolio-wrapper&quot;]/div[@class=&quot;overflow-hidden rounded-md card-shadow&quot;]/a[@class=&quot;block relative&quot;]/section[@id=&quot;portfolio-slider&quot;]/div[@id=&quot;campaign-gallery&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-active&quot;]/img[@class=&quot;relative z-0 object-cover object-center w-full h-full&quot;]</value>
+      <webElementGuid>8d6cad0d-b963-464a-b0ae-1667c2baa224</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='campaign-gallery']/div/div[5]/img</value>
+      <webElementGuid>1898f9a8-7808-417a-ad5a-ab27cfdf0fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://media.shafiq.id/public/businesses/159/covers/139-mtrx-01-05-thumb.jpg')]</value>
+      <webElementGuid>d29944e1-923c-4c44-99a7-461858011ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/img</value>
+      <webElementGuid>3904fa1a-e1b8-40c5-97ca-f4d06ca810c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.shafiq.id/public/businesses/159/covers/139-mtrx-01-05-thumb.jpg']</value>
+      <webElementGuid>17cadac7-070d-403f-baf9-52f823ca2f97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

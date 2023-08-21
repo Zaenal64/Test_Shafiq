@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001_Verify_User at Beranda Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf9b7947-6956-4897-8308-a988286b8b89</testCaseGuid>
+</TestCaseEntity>

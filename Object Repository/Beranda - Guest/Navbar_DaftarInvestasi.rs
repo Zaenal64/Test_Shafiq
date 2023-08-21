@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Navbar_DaftarInvestasi</name>
+   <tag></tag>
+   <elementGuidId>c3aff152-1f60-44ca-a960-c0ebe757eea9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='offcanvas']/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca80c046-380c-4d4d-8ee0-46c3a80445e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link text-h3 lg:text-h5 xl:text-h5 text-black</value>
+      <webElementGuid>30dc6c37-f83e-446d-a4c7-46730eadbfca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-text</name>
+      <type>Main</type>
+      <value>Daftar Investasi</value>
+      <webElementGuid>aacab049-f935-4a0c-a942-9cacb57ada6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.shafiq.id/daftar-investasi</value>
+      <webElementGuid>4729202d-54c7-49d9-b6f4-64af698b651d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Investasi</value>
+      <webElementGuid>f2e3ba0a-6042-411a-8f4a-680290521663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;container&quot;]/nav[@class=&quot;[ shafiq-navbar ] navbar navbar-expand-lg&quot;]/div[@id=&quot;offcanvas&quot;]/ul[@class=&quot;navbar-nav lg:ml-auto w-full lg:w-auto order-o2 lg:order-o1&quot;]/li[@class=&quot;nav-item active !px-2 !py-4&quot;]/a[@class=&quot;nav-link text-h3 lg:text-h5 xl:text-h5 text-black&quot;]</value>
+      <webElementGuid>8d8be4ee-c2f4-4869-8b51-7dcaa0ad507c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='offcanvas']/ul/li[2]/a</value>
+      <webElementGuid>969321a1-02c1-45a8-8135-ea3c24e3b192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftar Investasi')]</value>
+      <webElementGuid>c480b139-913f-48fa-8831-37eb83b93247</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::a[1]</value>
+      <webElementGuid>47b2f3c3-63e5-4324-871a-a87ef02cac41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/following::a[2]</value>
+      <webElementGuid>2544199e-e351-4188-a23b-3b3f24e359b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tentang SHAFIQ'])[1]/preceding::a[1]</value>
+      <webElementGuid>3ba6c77f-1473-4ef8-8641-f861cfe91da4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::a[2]</value>
+      <webElementGuid>6fc2ed9f-e23f-469b-8350-f5552a58e77e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar Investasi']/parent::*</value>
+      <webElementGuid>2745c4fb-b6a5-47a5-bcbb-12fa9d747b09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.shafiq.id/daftar-investasi')]</value>
+      <webElementGuid>046d831c-996f-4fc7-95b7-7886ef076b6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>96cc682c-699d-429a-bfa8-b636ac46cc95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.shafiq.id/daftar-investasi' and (text() = 'Daftar Investasi' or . = 'Daftar Investasi')]</value>
+      <webElementGuid>f9d491f6-538a-4f8a-9b2a-25be8665df43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

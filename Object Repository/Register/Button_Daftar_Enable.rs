@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Daftar_Enable</name>
+   <tag></tag>
+   <elementGuidId>59fe4c1a-f2c9-48e4-a8e8-9b640af17135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>92a68f5c-c602-4e26-8c03-f493abf79d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>bc958162-06c4-4093-9599-f02cf2658d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>[ form-submit-btn ] btn btn-primary btn-block</value>
+      <webElementGuid>f0442be9-08a8-43b7-a781-86ae4ac8b0c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Daftar
+</value>
+      <webElementGuid>6a8467fa-61b1-45da-9167-d06803ba5ea6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_form&quot;)/div[@class=&quot;row justify-center w-full no-gutters&quot;]/div[@class=&quot;col-12 col-md-8 col-lg-6&quot;]/div[@class=&quot;scrolling-content scrolling-content--auto&quot;]/div[@class=&quot;scrolling-content__footer&quot;]/div[@class=&quot;w-full mb-4&quot;]/button[@class=&quot;[ form-submit-btn ] btn btn-primary btn-block&quot;]</value>
+      <webElementGuid>b65ade8d-8143-4fa8-af40-61b0bb9fcc45</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>0178d460-8dfa-4b0c-ab22-69163c7bbb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup_form']/div/div/div/div[3]/div/button</value>
+      <webElementGuid>b0f932a8-6678-4656-a88d-082e7cb25ef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lainnya'])[1]/following::button[1]</value>
+      <webElementGuid>3d20de97-9aec-48f2-b898-af6b3a0da5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::button[1]</value>
+      <webElementGuid>5e6f4016-149c-403d-bc76-ac39e3a680e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>72604565-d3ba-47a4-96f5-45514ab7e807</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>ebde7480-693d-4404-a351-219a8635dfeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '
+Daftar
+' or . = '
+Daftar
+')]</value>
+      <webElementGuid>166a64de-625d-4459-b5bf-e23ad9eece8c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

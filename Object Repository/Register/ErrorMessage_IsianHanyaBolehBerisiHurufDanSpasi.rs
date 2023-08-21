@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ErrorMessage_IsianHanyaBolehBerisiHurufDanSpasi</name>
+   <tag></tag>
+   <elementGuidId>de873d57-06b4-4d37-a4ab-1481af3ae5a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup_form']/div/div/div/div[2]/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.mt-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6c169230-14aa-411b-be6c-a4ced951c2be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger mt-2</value>
+      <webElementGuid>e9dd98a4-8dd2-46de-9723-2f990e9d7b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Isian hanya boleh berisi huruf dan spasi.</value>
+      <webElementGuid>e0301690-0d99-4254-84af-205d741e452c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_form&quot;)/div[@class=&quot;row justify-center w-full no-gutters&quot;]/div[@class=&quot;col-12 col-md-8 col-lg-6&quot;]/div[@class=&quot;scrolling-content scrolling-content--auto&quot;]/div[@class=&quot;scrolling-content__body&quot;]/div[@class=&quot;flex items-center w-full&quot;]/div[@class=&quot;w-full pt-8&quot;]/div[@class=&quot;form-group&quot;]/div[1]/div[@class=&quot;alert alert-danger mt-2&quot;]</value>
+      <webElementGuid>30ca4d81-de5c-41db-830e-a8d24d845a8a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup_form']/div/div/div/div[2]/div/div/div/div/div</value>
+      <webElementGuid>546e676b-9c41-433c-addb-32afcff93e49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/following::div[2]</value>
+      <webElementGuid>19176f22-98af-40f1-b881-99b130053eaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Sekarang'])[1]/following::div[6]</value>
+      <webElementGuid>69577a6b-8ec9-4561-b582-c91c5a0bf559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[1]</value>
+      <webElementGuid>7e0cf631-e71f-4f6f-aac1-f2e08766f4d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::div[2]</value>
+      <webElementGuid>74641604-de4e-4411-9078-f96a21debaad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Isian hanya boleh berisi huruf dan spasi.']/parent::*</value>
+      <webElementGuid>7868ca42-b406-4084-91ca-010d6616e1ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div</value>
+      <webElementGuid>ba3efdae-7582-44bf-854f-4b2995370139</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Isian hanya boleh berisi huruf dan spasi.' or . = 'Isian hanya boleh berisi huruf dan spasi.')]</value>
+      <webElementGuid>a5fd889e-d847-4ea3-8a30-7913f20e09ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

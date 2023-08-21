@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Content_DaftarInvestasi</name>
+   <tag></tag>
+   <elementGuidId>38323198-0b53-405e-9acf-88de0d9906f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.text-h2.text-primary.font-light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='home-portfolio-showcase']/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1e96ad02-02ca-4d92-bc5e-e931dd8c33c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-h2 text-primary font-light</value>
+      <webElementGuid>6211e90d-922e-4903-a9e0-df291f3bd7ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar Investasi</value>
+      <webElementGuid>152772ef-7c15-4632-b8c2-1fff58018409</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-portfolio-showcase&quot;)/div[@class=&quot;container mb-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-lg-10&quot;]/div[1]/span[@class=&quot;text-h2 text-primary font-light&quot;]</value>
+      <webElementGuid>6c724954-365b-4d13-9198-a00f46aa8e3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='home-portfolio-showcase']/div/div/div/div/span</value>
+      <webElementGuid>d4736036-ecb8-46b7-916c-f760be06780e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rata-rata Realisasi ROI'])[1]/following::span[1]</value>
+      <webElementGuid>f4ad8dd6-b41c-4e5c-a2a2-3fba1f14c983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='%'])[1]/following::span[2]</value>
+      <webElementGuid>5c21fab6-ceb0-400e-9447-826c076f3622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendanaan dimulai dalam:'])[1]/preceding::span[2]</value>
+      <webElementGuid>4e059cef-4f00-4587-a7fd-6c5ac5a370a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUKUK'])[1]/preceding::span[4]</value>
+      <webElementGuid>45696ddc-209d-4e62-83ba-06330cbe0181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[3]/div/div/div/div/span</value>
+      <webElementGuid>732b165f-8ec1-433a-a42c-8ab879824e26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Daftar Investasi' or . = 'Daftar Investasi')]</value>
+      <webElementGuid>bdfe0fb3-fcee-4dfd-86d5-a7b22d636cb5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

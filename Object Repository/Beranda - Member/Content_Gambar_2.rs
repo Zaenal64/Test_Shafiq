@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Content_Gambar_2</name>
+   <tag></tag>
+   <elementGuidId>7f29e61b-8d1c-49a1-952c-b646014490bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.swiper-slide.portfolio-wrapper.swiper-slide-next > div.portfolio-wrapper > div.overflow-hidden.rounded-md.card-shadow > a.block.relative > #portfolio-slider > #campaign-gallery > div.swiper-wrapper > div.swiper-slide.swiper-slide-active > img.relative.z-0.object-cover.object-center.w-full.h-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='campaign-gallery']/div/div/img)[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>f610ad40-f628-4b14-b716-d0c7297c4f93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative z-0 object-cover object-center w-full h-full</value>
+      <webElementGuid>f50b8c15-72bd-4aea-b755-5321762f9bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.shafiq.id/public/businesses/119/covers/134-enkr-02-01-thumb.jpg</value>
+      <webElementGuid>ca311dd6-5900-40c0-8ad7-f030b3ba2cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-portfolio-slider&quot;)/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide portfolio-wrapper swiper-slide-next&quot;]/div[@class=&quot;portfolio-wrapper&quot;]/div[@class=&quot;overflow-hidden rounded-md card-shadow&quot;]/a[@class=&quot;block relative&quot;]/section[@id=&quot;portfolio-slider&quot;]/div[@id=&quot;campaign-gallery&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide swiper-slide-active&quot;]/img[@class=&quot;relative z-0 object-cover object-center w-full h-full&quot;]</value>
+      <webElementGuid>ffcabdef-8e62-47ec-8342-ae58f41ed549</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='campaign-gallery']/div/div/img)[6]</value>
+      <webElementGuid>422624f3-340c-4df3-9d97-da8f01f715e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://media.shafiq.id/public/businesses/119/covers/134-enkr-02-01-thumb.jpg')]</value>
+      <webElementGuid>bad8235f-2a63-4fee-9d15-cc6e2d427ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/section/div/div/div/img</value>
+      <webElementGuid>d460d4d1-3770-45fb-8123-4409790a7a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.shafiq.id/public/businesses/119/covers/134-enkr-02-01-thumb.jpg']</value>
+      <webElementGuid>b126e419-e453-4f0c-9571-5513e4678ab7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
