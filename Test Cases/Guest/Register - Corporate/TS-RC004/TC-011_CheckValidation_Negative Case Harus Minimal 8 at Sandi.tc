@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-011_CheckValidation_Negative Case Harus Minimal 8 at Sandi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>49b82a94-7e7a-44ed-84c4-ce95171f26bb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bae0f1c9-1d75-42eb-917c-bb794f10d412</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Harus minimal 8 karakter dan mengandung 1 huruf kecil [a-z], 1 huruf besar [A-Z], and 1 angka [0-9].'</defaultValue>
+      <description></description>
+      <id>bae0f1c9-1d75-42eb-917c-bb794f10d412</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

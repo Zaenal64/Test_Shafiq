@@ -16,10 +16,26 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.annotation.Keyword as Keyword
+import com.networknt.schema.Keyword as Keyword
+import javassist.compiler.ast.Keyword as Keyword
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-WebUI.navigateToUrl('https://www.shafiq.id/signup/form/personal')
+WebUI.navigateToUrl('https://www.shafiq.id/signup/form/corporate')
 
-WebUI.scrollToElement(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'), 0)
+WebUI.verifyElementVisible(findTestObject('Register/Input_Email'))
 
-WebUI.verifyElementAttributeValue(findTestObject('Register/div_Instagram'), 'data-value', '1', 0)
+WebUI.setText(findTestObject('Register/Input_Email'), Email)
+
+WebUI.sendKeys(findTestObject('Register/Input_Email'), Keys.chord(Keys.SHIFT, Keys.ARROW_UP))
+
+WebUI.sendKeys(findTestObject('Register/Input_Email'), Keys.chord(Keys.BACK_SPACE))
+
+WebUI.verifyElementVisible(findTestObject('Register/ErrorMessage_TidakBolehKosongEmail'))
+
+errorText = WebUI.getText(findTestObject('Register/ErrorMessage_TidakBolehKosongEmail'))
+
+KeywordUtil.logInfo('Error Text: ' + errorText)
+
+WebUI.verifyMatch(errorText, Expected, false)
 

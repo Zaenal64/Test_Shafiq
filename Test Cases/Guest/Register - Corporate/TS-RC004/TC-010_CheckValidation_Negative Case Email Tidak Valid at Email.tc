@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-010_CheckValidation_Negative Case Email Tidak Valid at Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d94c59de-92e7-4ed0-a418-6b12d3939ea5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>47e6569e-b4eb-4f61-b4a0-dc856b7c8078</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'email tidak valid'</defaultValue>
+      <description></description>
+      <id>47e6569e-b4eb-4f61-b4a0-dc856b7c8078</id>
+      <masked>false</masked>
+      <name>Expected</name>
+   </variable>
+</TestCaseEntity>

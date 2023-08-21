@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ErrorMessage_Captcha</name>
+   <tag></tag>
+   <elementGuidId>3c96f9c1-0a51-4817-bd7d-0df4a7fdad81</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup_form']/div/div/div/div[2]/div/div/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.mt-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c1556c95-34af-4320-8026-bce884680e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger mt-2</value>
+      <webElementGuid>3ed4245c-93f7-450b-b1ed-cdf8bae374b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Silahkan checklist captcha terlebih dahulu.</value>
+      <webElementGuid>536db4bd-0d14-43c7-84a7-c4f051f7a150</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_form&quot;)/div[@class=&quot;row justify-center w-full no-gutters&quot;]/div[@class=&quot;col-12 col-md-8 col-lg-6&quot;]/div[@class=&quot;scrolling-content scrolling-content--auto&quot;]/div[@class=&quot;scrolling-content__body&quot;]/div[@class=&quot;flex items-center w-full&quot;]/div[@class=&quot;w-full pt-8&quot;]/div[4]/div[@class=&quot;alert alert-danger mt-2&quot;]</value>
+      <webElementGuid>0f6a1dbc-3343-40cf-8f48-d1eec3af899d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup_form']/div/div/div/div[2]/div/div/div[4]/div</value>
+      <webElementGuid>f77212bf-63a6-4bc3-b95c-fdcb9d20af46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::div[10]</value>
+      <webElementGuid>344d9ca4-354f-426a-9172-72b36acc3761</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[14]</value>
+      <webElementGuid>dcd15084-8c6f-4ba0-92c8-67ac7358b6e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[3]/preceding::div[1]</value>
+      <webElementGuid>1b12bd86-e388-42c8-97d5-5311f5922cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/preceding::div[2]</value>
+      <webElementGuid>37cdc845-9c93-493e-a027-8b0a915c1fbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Silahkan checklist captcha terlebih dahulu.']/parent::*</value>
+      <webElementGuid>ef722d31-4f8d-47db-a05b-7be6ea514123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>b1a0066e-2657-40ff-819c-18eb2aef29a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Silahkan checklist captcha terlebih dahulu.' or . = 'Silahkan checklist captcha terlebih dahulu.')]</value>
+      <webElementGuid>59f14714-5794-4764-8417-6937ff014351</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

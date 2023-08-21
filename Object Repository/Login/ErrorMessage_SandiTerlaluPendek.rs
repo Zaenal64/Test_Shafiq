@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ErrorMessage_SandiTerlaluPendek</name>
+   <tag></tag>
+   <elementGuidId>4342e437-a11e-4a6b-bcb3-d96ab413d00a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='parsley-id-7']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger.mt-2.parsley-minlength</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a055555-5f5f-437e-a25b-1f8e662504dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger mt-2 parsley-minlength</value>
+      <webElementGuid>8cb7d3c3-afb5-4b20-9668-bbf1be3c9dd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>terlalu pendek, minimal 8 karakter atau lebih.</value>
+      <webElementGuid>ed6538e9-63b2-4f11-b434-9103709ae18a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;parsley-id-7&quot;)/div[@class=&quot;alert alert-danger mt-2 parsley-minlength&quot;]</value>
+      <webElementGuid>5973e383-df36-400d-960b-c59980310731</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='parsley-id-7']/div</value>
+      <webElementGuid>3d2321d4-8865-4e20-adc8-47cf434f4926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/following::div[6]</value>
+      <webElementGuid>adf1e3c8-2ee6-48b3-a121-37a4ac82228e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='email tidak valid'])[1]/following::div[7]</value>
+      <webElementGuid>c731dc1f-dafe-41a8-ad59-8fae6586a095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[3]/preceding::div[5]</value>
+      <webElementGuid>6eaa16b8-83ab-4089-a5cf-b7d1cfd8788c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/preceding::div[6]</value>
+      <webElementGuid>72f4f0ea-6ba1-4de0-bf88-69e65667d7d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='terlalu pendek, minimal 8 karakter atau lebih.']/parent::*</value>
+      <webElementGuid>8f861efa-4e3b-45ba-a975-bba56e24c326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>42dcea21-7943-4543-8dc6-ffeabbda85ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'terlalu pendek, minimal 8 karakter atau lebih.' or . = 'terlalu pendek, minimal 8 karakter atau lebih.')]</value>
+      <webElementGuid>82f003ad-22aa-4f54-b865-4b4a856845e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

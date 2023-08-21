@@ -19,7 +19,25 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://www.shafiq.id/signup/form/personal')
 
-WebUI.scrollToElement(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'), 0)
+WebUI.verifyElementVisible(findTestObject('Register/input_Konfirmasi'))
 
-WebUI.verifyElementAttributeValue(findTestObject('Register/div_Instagram'), 'data-value', '1', 0)
+CustomKeywords.'main.GuestKeyword.Input_CorErrorKonfirmasiSandi1'()
+
+WebUI.verifyElementVisible(findTestObject('Register/ErrorMessage_PasswordTidakSama'))
+
+errorText = WebUI.getText(findTestObject('Register/ErrorMessage_PasswordTidakSama'))
+
+com.kms.katalon.core.util.KeywordUtil.logInfo('Error Text: ' + errorText)
+
+WebUI.verifyMatch(errorText, Expected, false)
+
+CustomKeywords.'main.GuestKeyword.Input_CorErrorKonfirmasiSandi2'()
+
+WebUI.verifyElementVisible(findTestObject('Register/ErrorMessage_PasswordTidakSama'))
+
+errorText = WebUI.getText(findTestObject('Register/ErrorMessage_PasswordTidakSama'))
+
+com.kms.katalon.core.util.KeywordUtil.logInfo('Error Text: ' + errorText)
+
+WebUI.verifyMatch(errorText, Expected, false)
 

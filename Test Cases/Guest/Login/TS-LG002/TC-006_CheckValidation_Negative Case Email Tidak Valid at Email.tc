@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-006_CheckValidation_Negative Case Email Tidak Valid at Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee8e6d03-4016-41e2-b043-2e2603b68eb8</testCaseGuid>
+</TestCaseEntity>

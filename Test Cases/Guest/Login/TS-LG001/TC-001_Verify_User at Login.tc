@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-001_Verify_User at Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4349fafe-9afd-42d8-bcae-3413f70ab4d9</testCaseGuid>
+</TestCaseEntity>

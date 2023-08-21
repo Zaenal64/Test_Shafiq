@@ -16,12 +16,23 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-WebUI.navigateToUrl('https://www.shafiq.id/signup/form/personal')
+WebUI.navigateToUrl('https://www.shafiq.id/signup/form/corporate')
 
-WebUI.scrollToElement(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'), 0)
+WebUI.verifyElementVisible(findTestObject('Register/Input_NamaLengkap'))
 
-WebUI.check(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'))
+WebUI.setText(findTestObject('Register/Input_NamaLengkap'), NamaLengkap)
 
-WebUI.selectOptionByValue(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'), '8', false)
+WebUI.sendKeys(findTestObject('Object Repository/Register/Input_NamaLengkap'), Keys.chord(Keys.SHIFT, Keys.ARROW_UP))
+
+WebUI.sendKeys(findTestObject('Object Repository/Register/Input_NamaLengkap'), Keys.chord(Keys.BACK_SPACE))
+
+WebUI.verifyElementVisible(findTestObject('Register/ErrorMessage_TidakBolehKosong_NamaLengkap'))
+
+errorText = WebUI.getText(findTestObject('Register/ErrorMessage_TidakBolehKosong_NamaLengkap'))
+
+KeywordUtil.logInfo('Error Text: ' + errorText)
+
+WebUI.verifyMatch(errorText, Expected, false)
 

@@ -16,10 +16,31 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-WebUI.navigateToUrl('https://www.shafiq.id/signup/form/personal')
+WebUI.navigateToUrl('https://www.shafiq.id/signup/form/corporate')
 
 WebUI.scrollToElement(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'), 0)
 
-WebUI.verifyElementAttributeValue(findTestObject('Register/div_Instagram'), 'data-value', '1', 0)
+WebUI.check(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'))
+
+WebUI.verifyElementAttributeValue(findTestObject('Register/div_Lainnya'), 'data-value', '8', 0)
+
+WebUI.click(findTestObject('Register/div_Lainnya'))
+
+WebUI.verifyElementVisible(findTestObject('Register/Input_Lainnya'))
+
+WebUI.setText(findTestObject('Register/Input_Lainnya'), Input_Lainnya)
+
+WebUI.sendKeys(findTestObject('Register/Input_Lainnya'), Keys.chord(Keys.SHIFT, Keys.ARROW_UP))
+
+WebUI.sendKeys(findTestObject('Register/Input_Lainnya'), Keys.chord(Keys.BACK_SPACE))
+
+WebUI.verifyElementVisible(findTestObject('Register/ErrorMessage_TidakBolehKosongLainnya'))
+
+errorText = WebUI.getText(findTestObject('Register/ErrorMessage_TidakBolehKosongLainnya'))
+
+KeywordUtil.logInfo('Error Text: ' + errorText)
+
+WebUI.verifyMatch(errorText, Expected, false)
 

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_Masuk</name>
+   <tag></tag>
+   <elementGuidId>30d8b462-e1b3-4639-9bc6-b13c13412391</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='signup_form']/div/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.leading-tight.text-h2.text-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ae4fe069-ec41-44cd-80e4-325642d609a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>leading-tight text-h2 text-primary</value>
+      <webElementGuid>40a9596d-85e2-459b-9b95-cba53f85a76d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>dd6c036f-f3b7-4ab6-be87-ad14a7d97d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;signup_form&quot;)/div[@class=&quot;row justify-center w-full no-gutters&quot;]/div[@class=&quot;col-12 col-md-8 col-lg-6&quot;]/div[@class=&quot;scrolling-content scrolling-content--auto&quot;]/div[@class=&quot;scrolling-content__header&quot;]/div[@class=&quot;text-center&quot;]/span[@class=&quot;leading-tight text-h2 text-primary&quot;]</value>
+      <webElementGuid>0f15db3a-a048-4637-aca2-560d17cd9bd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='signup_form']/div/div/div/div/div/span</value>
+      <webElementGuid>abff8e20-022b-4d04-9d88-3f1e85a30467</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::span[1]</value>
+      <webElementGuid>cf7b8525-ab61-4906-85fe-9970311992b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Sandi'])[1]/preceding::span[2]</value>
+      <webElementGuid>d129a16b-a475-4674-900a-7ae78adf512f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/span</value>
+      <webElementGuid>51dbb94c-7c0a-4777-9b87-81fcf2f7903d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>7d07970f-1e16-440c-9ea8-a254b9dd1af7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

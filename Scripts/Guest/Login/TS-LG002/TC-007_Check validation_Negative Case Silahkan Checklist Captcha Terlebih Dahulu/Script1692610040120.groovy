@@ -17,9 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.navigateToUrl('https://www.shafiq.id/signup/form/personal')
-
-WebUI.scrollToElement(findTestObject('Register/Dropdown_DariManaAndaMengetahuiShafiq'), 0)
-
-WebUI.verifyElementAttributeValue(findTestObject('Register/div_Instagram'), 'data-value', '1', 0)
-
